@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyCKUzeMt663acg1IxfBJBLuVTwCbO7YZmQ")
+genai.configure(api_key="Your_Api_key here")
 # initialize the model
 model = genai.GenerativeModel('gemini-1.5-flash')
 def inputFromUser(userInput):
