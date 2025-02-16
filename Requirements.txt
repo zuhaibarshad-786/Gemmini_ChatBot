@@ -1,4 +1,5 @@
 Streamlit
 generative ai library
 api key
+google-generativeai
 
